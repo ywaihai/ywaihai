@@ -17,7 +17,9 @@
   1. shields 链接格式: https://img.shields.io/badge/-{标签文本}-{标签背景色}?style={标签类型}&logo={标签前面 Logo}&logoColor={Logo 颜色}
   2. shields 可选 Logo 列表参考: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 -->
-<p align="left">我的技能 🤞</p>
+<p align="left">
+  <h4>我的技能 🤞</h4>
+</p>
 <div align="left">
   <img src="https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/-Spring-0fdb27?style=flat&logo=Spring&logoColor=white">
